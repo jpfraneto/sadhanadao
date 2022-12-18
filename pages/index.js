@@ -21,6 +21,9 @@ export default function Home() {
           will start the 6th of January.
         </p>
         <p>It is time to wake up. </p>
+        <a className={styles.link} href='https://www.dukkha.xyz'>
+          Click here to read the longest litepaper ever.
+        </a>
       </main>
     </div>
   );

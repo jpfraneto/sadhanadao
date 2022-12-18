@@ -21,6 +21,10 @@
   align-items: center;
 }
 
+.link:hover {
+  color: yellow;
+}
+
 .footer a {
   display: flex;
   justify-content: center;
